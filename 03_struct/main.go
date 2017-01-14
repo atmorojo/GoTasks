@@ -1,5 +1,7 @@
 package main
 
+// Masih agak OOP minded. Semoga ke depannya bisa berkurang
+
 import (
 	"fmt"
 	"time"
